@@ -16,7 +16,7 @@ Before you begin, ensure that you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sabahat-saeed/symphony_handson.git
     ```
 
 2. Install dependencies:
